@@ -1,0 +1,13 @@
+
+:root{--bg:#070b16;--panel:#10182b;--muted:#9aa7bd;--text:#f7f9fc;--line:#24304a;--accent:#69e1c4;--accent2:#8ea8ff}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Vazirmatn","Segoe UI",sans-serif;background:radial-gradient(circle at top,#14203c 0,#070b16 42%);color:var(--text)}
+.hero,main,footer{max-width:1120px;margin:auto;padding:24px}.hero{padding-top:52px}.brand{display:flex;align-items:center;gap:14px}.logo{width:58px;height:58px;border-radius:18px;display:grid;place-items:center;background:linear-gradient(135deg,var(--accent),var(--accent2));color:#06111b;font-weight:900}
+h1{margin:0;font-size:34px}.brand p{margin:5px 0;color:var(--muted)}.install{display:inline-block;margin-top:24px;padding:14px 18px;border-radius:14px;background:var(--accent);color:#06111b;text-decoration:none;font-weight:800}
+.warning{max-width:760px;color:#d5b977;font-size:14px;line-height:1.8}.tools{display:grid;grid-template-columns:1fr 240px;gap:12px;position:sticky;top:0;padding:12px 0;background:rgba(7,11,22,.88);backdrop-filter:blur(15px);z-index:10}
+input,select{width:100%;border:1px solid var(--line);background:var(--panel);color:var(--text);padding:14px;border-radius:14px;font-size:16px}.stats{color:var(--muted);padding:14px 2px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(235px,1fr));gap:14px}.card{background:rgba(16,24,43,.9);border:1px solid var(--line);border-radius:18px;padding:17px;min-height:158px;display:flex;flex-direction:column}.badge{font-size:12px;color:var(--accent);margin-bottom:10px}.card h2{font-size:18px;margin:0 0 8px}.card p{font-size:14px;line-height:1.7;color:var(--muted);margin:0 0 16px}.open{margin-top:auto;text-decoration:none;color:#07101d;background:#fff;padding:10px 12px;border-radius:11px;text-align:center;font-weight:800}.empty{text-align:center;color:var(--muted);grid-column:1/-1;padding:50px}
+footer{border-top:1px solid var(--line);margin-top:40px;color:var(--muted);line-height:1.9;font-size:13px}
+@media(max-width:650px){.tools{grid-template-columns:1fr}.hero{padding-top:28px}h1{font-size:28px}}
+
+.store-card{margin:0 0 22px;background:linear-gradient(135deg,rgba(105,225,196,.13),rgba(142,168,255,.13));border:1px solid var(--line);border-radius:20px;padding:20px;line-height:1.9}
+.store-card h2{margin:0 0 4px;font-size:24px}.store-card .tagline{color:var(--accent);font-weight:800}
+.store-card p{margin:4px 0;color:#dce4f2}.store-card a{color:var(--accent);text-decoration:none;font-weight:700}

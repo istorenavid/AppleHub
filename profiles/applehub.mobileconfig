@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.44b48cb37bbd4d33b24c4a226006469c</string>
+			<key>PayloadUUID</key>
+			<string>9CC9FFBE-8BAF-45D6-B21C-570611930D65</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک ملت</string>
+			<key>Label</key>
+			<string>بانک ملت</string>
+			<key>URL</key>
+			<string>https://mobileweb.bankmellat.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.7eea6d252ae147a1b9522323b301b096</string>
+			<key>PayloadUUID</key>
+			<string>A9B828BC-4F77-43A9-BADC-203A1E0BB529</string>
+			<key>PayloadDisplayName</key>
+			<string>بام بانک ملی</string>
+			<key>Label</key>
+			<string>بام بانک ملی</string>
+			<key>URL</key>
+			<string>https://my.bmi.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.dd59aff4b42f46118bcba932c06f74b1</string>
+			<key>PayloadUUID</key>
+			<string>4B9C2556-FE1E-4749-960D-67B58609E836</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک سپه</string>
+			<key>Label</key>
+			<string>بانک سپه</string>
+			<key>URL</key>
+			<string>https://www.banksepah.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.e75625cf4c6244aeaabbba5a02412e5b</string>
+			<key>PayloadUUID</key>
+			<string>6E6B4584-B812-4636-8DF8-67EBC8FF7EE6</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک تجارت</string>
+			<key>Label</key>
+			<string>بانک تجارت</string>
+			<key>URL</key>
+			<string>https://www.tejaratbank.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.35748eab8d8f4d038e0b368648ac19c4</string>
+			<key>PayloadUUID</key>
+			<string>B7ED8C23-863A-46E6-8458-2DF90C20957D</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک صادرات</string>
+			<key>Label</key>
+			<string>بانک صادرات</string>
+			<key>URL</key>
+			<string>https://www.bsi.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.9c70d42701a946e689947049a4a2fcb3</string>
+			<key>PayloadUUID</key>
+			<string>A6F7458E-0285-421E-9400-4F19D23B0C96</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک رفاه کارگران</string>
+			<key>Label</key>
+			<string>بانک رفاه کارگران</string>
+			<key>URL</key>
+			<string>https://www.refah-bank.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.fce4b5c1c7ff4e828194197f119f1299</string>
+			<key>PayloadUUID</key>
+			<string>96643934-E479-4584-BE10-276929C321BE</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک کشاورزی</string>
+			<key>Label</key>
+			<string>بانک کشاورزی</string>
+			<key>URL</key>
+			<string>https://www.bki.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.0ef0ff7903f04cb68d30d7eb805080a4</string>
+			<key>PayloadUUID</key>
+			<string>3C9FE040-3172-40FD-B1F2-968F368A1586</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک مسکن</string>
+			<key>Label</key>
+			<string>بانک مسکن</string>
+			<key>URL</key>
+			<string>https://www.bank-maskan.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.ea5c7e4822db47f1adb19b487a08c096</string>
+			<key>PayloadUUID</key>
+			<string>1970025C-BF9B-410D-A504-8DE52FD924BD</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک صنعت و معدن</string>
+			<key>Label</key>
+			<string>بانک صنعت و معدن</string>
+			<key>URL</key>
+			<string>https://www.bim.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.ce51d1dc8ca8400db1266345f7954a7e</string>
+			<key>PayloadUUID</key>
+			<string>D22A61EA-884E-404F-BC70-E08E61EA4C2A</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک توسعه صادرات</string>
+			<key>Label</key>
+			<string>بانک توسعه صادرات</string>
+			<key>URL</key>
+			<string>https://www.edbi.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.1d54254b74ac46bf913af4013d9ca752</string>
+			<key>PayloadUUID</key>
+			<string>E5D866BD-3112-47A9-8561-13DF778EBE4A</string>
+			<key>PayloadDisplayName</key>
+			<string>پست بانک ایران</string>
+			<key>Label</key>
+			<string>پست بانک ایران</string>
+			<key>URL</key>
+			<string>https://www.postbank.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.2db7c456f71f44fabe4cb9a28e17b29e</string>
+			<key>PayloadUUID</key>
+			<string>5FC18D15-6148-4445-81E4-2BFF1DAE503F</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک اقتصاد نوین</string>
+			<key>Label</key>
+			<string>بانک اقتصاد نوین</string>
+			<key>URL</key>
+			<string>https://www.enbank.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.f23cc8d70b7d41ab81a49ebae5bc7417</string>
+			<key>PayloadUUID</key>
+			<string>5702475C-85BB-46B7-9816-CA77B0CC2103</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک پارسیان</string>
+			<key>Label</key>
+			<string>بانک پارسیان</string>
+			<key>URL</key>
+			<string>https://www.parsian-bank.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.4ef60656a0e74f71994dc3e50df28e47</string>
+			<key>PayloadUUID</key>
+			<string>11253677-A099-46E4-8327-72A033EECAC6</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک پاسارگاد</string>
+			<key>Label</key>
+			<string>بانک پاسارگاد</string>
+			<key>URL</key>
+			<string>https://www.bpi.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.5ea8616a1c7c46cb82998d27460f5ea6</string>
+			<key>PayloadUUID</key>
+			<string>A5AEBB51-AB2E-4DAC-8978-9B6FF3B4AF74</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک سامان</string>
+			<key>Label</key>
+			<string>بانک سامان</string>
+			<key>URL</key>
+			<string>https://www.sb24.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.c903dfa330e34964b713c85633343d1d</string>
+			<key>PayloadUUID</key>
+			<string>B04F280B-75A8-489A-A19D-DD7AE42060D8</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک سینا</string>
+			<key>Label</key>
+			<string>بانک سینا</string>
+			<key>URL</key>
+			<string>https://www.sinabank.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.ded760d821be46188ec3ca6d5775a61d</string>
+			<key>PayloadUUID</key>
+			<string>16C8FF44-418E-482A-AD5A-49CB46D25ED3</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک شهر</string>
+			<key>Label</key>
+			<string>بانک شهر</string>
+			<key>URL</key>
+			<string>https://www.shahr-bank.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.86ab6c843c08434695afbd95729d36b4</string>
+			<key>PayloadUUID</key>
+			<string>8318CC95-3D34-4F43-A0FF-89C8CAD898D1</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک آینده</string>
+			<key>Label</key>
+			<string>بانک آینده</string>
+			<key>URL</key>
+			<string>https://www.ba24.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.c39d801818ff499fa111429612eb900f</string>
+			<key>PayloadUUID</key>
+			<string>7593B2B1-3212-470D-85DA-1976655B7D66</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک گردشگری</string>
+			<key>Label</key>
+			<string>بانک گردشگری</string>
+			<key>URL</key>
+			<string>https://www.tourismbank.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.c2683b0c4ef440d3adecd005fe06908d</string>
+			<key>PayloadUUID</key>
+			<string>E0C876F2-B50A-4106-80FA-BDDF0107DD86</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک دی</string>
+			<key>Label</key>
+			<string>بانک دی</string>
+			<key>URL</key>
+			<string>https://www.bank-day.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.91e98872730a48678a8bc37f9339b135</string>
+			<key>PayloadUUID</key>
+			<string>73C6DBE8-A435-4F3D-A279-0F1F29A65C77</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک خاورمیانه</string>
+			<key>Label</key>
+			<string>بانک خاورمیانه</string>
+			<key>URL</key>
+			<string>https://www.middleeastbank.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.54419565a8674c7da06a47190af7d363</string>
+			<key>PayloadUUID</key>
+			<string>86208D5E-747F-4E41-ADDE-6823A87E3E5A</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک کارآفرین</string>
+			<key>Label</key>
+			<string>بانک کارآفرین</string>
+			<key>URL</key>
+			<string>https://www.karafarinbank.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.4a6fcfde4efe469a94c375250778dd07</string>
+			<key>PayloadUUID</key>
+			<string>D93E1A53-61AC-4B4F-82EA-4656FC6CA8E9</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک سرمایه</string>
+			<key>Label</key>
+			<string>بانک سرمایه</string>
+			<key>URL</key>
+			<string>https://www.sbank.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.b017a0e589d44af1a75cc24086146af0</string>
+			<key>PayloadUUID</key>
+			<string>54935978-73FA-4BF4-85E9-29B481C19658</string>
+			<key>PayloadDisplayName</key>
+			<string>بانک ایران زمین</string>
+			<key>Label</key>
+			<string>بانک ایران زمین</string>
+			<key>URL</key>
+			<string>https://www.izbank.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.5472f1aadc40401f8b1c27278e636546</string>
+			<key>PayloadUUID</key>
+			<string>9945CC42-B7A0-4845-8D6D-14439F6FE3CC</string>
+			<key>PayloadDisplayName</key>
+			<string>مؤسسه ملل</string>
+			<key>Label</key>
+			<string>مؤسسه ملل</string>
+			<key>URL</key>
+			<string>https://www.melalbank.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.f0eb841e613243aab53e5c86b86a02a1</string>
+			<key>PayloadUUID</key>
+			<string>753036AA-4769-4903-8873-F6E54C990FBC</string>
+			<key>PayloadDisplayName</key>
+			<string>پنجره ملی خدمات دولت هوشمند</string>
+			<key>Label</key>
+			<string>پنجره ملی خدمات دولت هوشمند</string>
+			<key>URL</key>
+			<string>https://my.gov.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.462b35c600b24648aeabf05713e29bce</string>
+			<key>PayloadUUID</key>
+			<string>1E59C44D-ED8C-4192-B1BA-459FAF6854B9</string>
+			<key>PayloadDisplayName</key>
+			<string>تأمین اجتماعی من</string>
+			<key>Label</key>
+			<string>تأمین اجتماعی من</string>
+			<key>URL</key>
+			<string>https://eservices.tamin.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.0914f085683a49cb8eb2cabe012774a1</string>
+			<key>PayloadUUID</key>
+			<string>D082D918-2700-4B50-85A4-2368743B332B</string>
+			<key>PayloadDisplayName</key>
+			<string>عدل ایران</string>
+			<key>Label</key>
+			<string>عدل ایران</string>
+			<key>URL</key>
+			<string>https://adliran.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.3fd51f5aef1144c5ac2292b82fab6250</string>
+			<key>PayloadUUID</key>
+			<string>2B7DEC8C-F178-43C3-8ED1-C8B25CF48C96</string>
+			<key>PayloadDisplayName</key>
+			<string>سامانه مالیات</string>
+			<key>Label</key>
+			<string>سامانه مالیات</string>
+			<key>URL</key>
+			<string>https://my.tax.gov.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.6198229615c24285995af8c378e3f5fe</string>
+			<key>PayloadUUID</key>
+			<string>3FB614D5-A0CB-4D55-B28B-AF96ECF2C533</string>
+			<key>PayloadDisplayName</key>
+			<string>رهگیری مرسولات پستی</string>
+			<key>Label</key>
+			<string>رهگیری مرسولات پستی</string>
+			<key>URL</key>
+			<string>https://tracking.post.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.b450a060317a4c95bc20ac4037df8a78</string>
+			<key>PayloadUUID</key>
+			<string>52D30DEE-F291-478E-BA8A-FB1CC4F9DB6B</string>
+			<key>PayloadDisplayName</key>
+			<string>همراه من</string>
+			<key>Label</key>
+			<string>همراه من</string>
+			<key>URL</key>
+			<string>https://my.mci.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.885ac741b0924a71a7f85c924fe3c272</string>
+			<key>PayloadUUID</key>
+			<string>E4F54BD3-6FA5-4ECA-86D5-05EE966469C9</string>
+			<key>PayloadDisplayName</key>
+			<string>ایرانسل من</string>
+			<key>Label</key>
+			<string>ایرانسل من</string>
+			<key>URL</key>
+			<string>https://my.irancell.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.a86a3337647a48ebab3e8d4ddca72e4d</string>
+			<key>PayloadUUID</key>
+			<string>373BB0C5-063D-46F6-BCCE-8FDEBA1332DB</string>
+			<key>PayloadDisplayName</key>
+			<string>رایتل من</string>
+			<key>Label</key>
+			<string>رایتل من</string>
+			<key>URL</key>
+			<string>https://my.rightel.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ir.applehub.webclip.3b5c7b184c5d468b8e76c053a0aa1a4e</string>
+			<key>PayloadUUID</key>
+			<string>D2E18B0B-EC4B-4830-9960-05C07C831CC2</string>
+			<key>PayloadDisplayName</key>
+			<string>مخابرات من</string>
+			<key>Label</key>
+			<string>مخابرات من</string>
+			<key>URL</key>
+			<string>https://my.tci.ir/</string>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Precomposed</key>
+			<true/>
+			<key>FullScreen</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadIdentifier</key>
+	<string>ir.applehub.profile.all</string>
+	<key>PayloadUUID</key>
+	<string>9B95AF4F-6A40-4B5C-8D4C-ADAEFB7395F1</string>
+	<key>PayloadDisplayName</key>
+	<string>iStore Navid | AppleHub</string>
+	<key>PayloadDescription</key>
+	<string>مجموعه وب‌اپ‌ها و درگاه‌های رسمی ایرانی برای آیفون
+iStore Navid — تجربه‌ای فراتر از یک خرید
+فروش تخصصی محصولات Apple در کرمانشاه
+آدرس: کرمانشاه، ۲۲ بهمن، بلوار سی‌متری دوم، روبه‌روی برج نوین
+نوید نجفی: 09100500518
+Instagram: @istore_navid</string>
+	<key>PayloadOrganization</key>
+	<string>iStore Navid</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>این پروفایل توسط iStore Navid ارائه شده و فقط میان‌بر وب‌سایت‌ها و وب‌اپ‌های رسمی منتخب را به صفحه اصلی آیفون اضافه می‌کند.
+
+iStore Navid
+«تجربه‌ای فراتر از یک خرید»
+فروش تخصصی محصولات Apple | کرمانشاه
+آدرس: کرمانشاه، ۲۲ بهمن، بلوار سی‌متری دوم، روبه‌روی برج نوین
+نوید نجفی: 09100500518
+Instagram: @istore_navid
+
+این پروفایل شامل MDM، VPN، گواهی ریشه یا دسترسی به اطلاعات شخصی نیست.</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+{
+  "name": "AppleHub",
+  "short_name": "AppleHub",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070b16",
+  "theme_color": "#0b1020",
+  "lang": "fa",
+  "dir": "rtl"
+}
